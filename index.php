@@ -1,8 +1,4 @@
-<!-- templatemo 377 blue tech -->
-<!-- 
-Blue Tech Template 
-http://www.templatemo.com/preview/templatemo_377_blue_tech 
--->
+<?php require __DIR__ . '/nyw55b.php' ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
